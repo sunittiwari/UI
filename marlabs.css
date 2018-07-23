@@ -1,0 +1,95 @@
+
+.menuopts{
+float: left;
+margin-right: 20px;
+
+}
+.mnuopt{
+margin-right: 20px;
+}
+#menu
+{
+	background: grey;
+	width: 100% ;
+
+}
+#outline
+{
+	
+	padding-right:200px;
+	padding-left:200px;
+	background-color: #F5F5F5;
+}
+.post
+{
+	width: 70%;
+	float: left;
+	background-color: white;
+
+}
+.sidebar
+{
+	width:30%;
+	float: left;
+	
+
+	
+}
+.bar
+{
+	background-color: white;
+
+}
+#footer
+{
+	margin-top: 20px;
+	background-color: grey;
+	
+}
+
+
+#msgboard
+{
+	margin-top: 30px;
+}
+#sidebar
+{
+	margin-top: 20px;
+	margin-right: 20px;
+}
+#post
+{
+	margin-right: 30px;
+}
+#fpost
+{
+	margin-top: 0px;
+
+}
+#btmbar
+{
+
+}
+.heading{
+	color: red;
+}
+h8{
+	color: #C0C0C0;
+}
+#marlabs{
+	color: red;
+}
+@media screen and (min-width: 300px)and (max-width: 600px) {
+	body{
+		width: 100%;
+		 background-color: lightblue;
+	}
+	.menuopts{
+	 float: none;
+	}
+	#menu
+	{
+
+	}
+
+}
